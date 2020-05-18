@@ -1,0 +1,13 @@
+Troubling Locker Situation
+0013.txt
+While you are trying to fix your locker, you realize the bell has gone and everyone is going to their locker. You missed out on all of the fun because you were late! Better luck next time!
+I know why I was late to class! I am ready to start again!
+0001.txt
+Leave Game!
+0000.txt
+Let's retry!
+0010.txt
+Quit Game!
+0000.txt
+0001.txt
+LateToClass

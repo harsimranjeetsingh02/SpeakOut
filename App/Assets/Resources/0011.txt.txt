@@ -1,0 +1,13 @@
+Missings my things!
+0011.txt
+You look around to see if you can find anybody but you are unable to! When you get back, your things are all gone! 
+Quit Game!
+0000.txt
+I think I know why my things are lost! I am ready to retry!
+0001.txt
+Leave Game!
+0000.txt
+Let's start again!
+0001.txt
+0001.txt
+OpenBackPack

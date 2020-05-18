@@ -1,0 +1,13 @@
+Ooops!
+0012.txt
+It looks as though you did not get the leader's attention! You missed out on being rewarded for your efforts! Better luck next time!
+Quit Game!
+0000.txt
+I think I know what I did wrong! One more chance!
+0010.txt
+Let's start again! 
+0001.txt
+I will come back some other time!
+0000.txt
+0010.txt
+Annoyed

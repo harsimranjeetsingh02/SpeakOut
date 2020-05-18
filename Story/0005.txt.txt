@@ -1,0 +1,13 @@
+Getting on the Bus
+0005.txt
+Great Choice! You won $20.00 in M.E. Cash! You now go onto the school bus and you see that the bus driver is giving each student a goodie bag! What do you do when you see the bus driver?
+Go to my seat before I hold up the line!
+0006.txt
+Say hi and proceed back to my seat!
+0007.txt
+Say hi and ask the bus driver how they are doing, then I will get the treat!
+0008.txt
+Smile then go back to my seat!
+0007.txt
+0008.txt
+BusDriver

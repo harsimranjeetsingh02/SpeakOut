@@ -1,0 +1,9 @@
+C:\Users\Harsimran Singh\source\repos\Editor\Editor\bin\Debug\Editor.exe.config
+C:\Users\Harsimran Singh\source\repos\Editor\Editor\bin\Debug\Editor.exe
+C:\Users\Harsimran Singh\source\repos\Editor\Editor\bin\Debug\Editor.pdb
+C:\Users\Harsimran Singh\source\repos\Editor\Editor\obj\Debug\Editor.csprojAssemblyReference.cache
+C:\Users\Harsimran Singh\source\repos\Editor\Editor\obj\Debug\Editor.Form1.resources
+C:\Users\Harsimran Singh\source\repos\Editor\Editor\obj\Debug\Editor.Properties.Resources.resources
+C:\Users\Harsimran Singh\source\repos\Editor\Editor\obj\Debug\Editor.csproj.GenerateResource.cache
+C:\Users\Harsimran Singh\source\repos\Editor\Editor\obj\Debug\Editor.exe
+C:\Users\Harsimran Singh\source\repos\Editor\Editor\obj\Debug\Editor.pdb

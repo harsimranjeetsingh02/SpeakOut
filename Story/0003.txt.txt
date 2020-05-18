@@ -1,0 +1,13 @@
+Uh Oh!
+0003.txt
+It looks like you slept through the alarm! You missed out on the first day! Remember! The first day is full of opportunities and new people you can meet! Remember, the correct decision will lead to a big reward!
+Retry! Go Back to the beginning!
+0001.txt
+I do not want to play anymore!
+0000.txt
+I think I can do better next time!
+0001.txt
+Give me one more chance!
+0001.txt
+0001.txt
+AlarmClock

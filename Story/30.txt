@@ -1,0 +1,13 @@
+Time for class
+30.txt
+It is 2 minutes before the bell will ring for Period 1 to begin. Do you...
+Hide in the cafeteria and skip class.
+31.txt
+Go to class and say hello to the teacher.
+32.txt
+Continue talking with my friends in the hallway and become late for class.
+31.txt
+Go to the washroom and arrive to class late.
+31.txt
+32.txt
+

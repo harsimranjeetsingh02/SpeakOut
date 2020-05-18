@@ -1,0 +1,13 @@
+Ooops....
+0009.txt
+After the bell rings, you head to your class! Sadly, you missed out on the fun and the teachers says there are no bags allowed in the class!
+Go back to beginning!
+0001.txt
+I think I know what I did wrong! I am ready to go again!
+0008.txt
+Quit Game
+0000.txt
+Leave Game
+0000.txt
+0008.txt
+LateToClass

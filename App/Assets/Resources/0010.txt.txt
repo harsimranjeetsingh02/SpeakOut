@@ -1,0 +1,13 @@
+Speaking with the Link Crew
+0010.txt
+You realize that your Link Crew Leader is near your locker and decide to approach them. What are you going to say?
+I will point to my locker so they can help
+0012.txt
+Actually, now that I am here I think I am going to figure out how to do it myself
+0013.txt
+I am going to introduce myself then ask them for help
+0014.txt
+I do not think I need their help!
+0012.txt
+0014.txt
+TeensTalking

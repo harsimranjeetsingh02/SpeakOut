@@ -1,0 +1,13 @@
+Packing your things!
+0002.txt
+After eating breakfast and getting ready, it is time for you to pack your bag! What do you want to pack?
+Nothing
+0004.txt
+Just a pencil
+0004.txt
+A pencil, eraser and calculator!
+0004.txt
+My binders, my whole pencil case and my waterbottle in case!
+0005.txt
+0005.txt
+SchoolBag

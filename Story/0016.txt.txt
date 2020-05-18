@@ -1,0 +1,13 @@
+Running out of time!
+0016.txt
+You stay there waiting, but it looks like you are running out of time! The bell is ringing and it looks like you are late for your class! Good Luck next time!
+Play again!
+0001
+Quit Game!
+0000
+I know what I did wrong and I am ready to play again!
+0001
+Leave Game
+0000
+0001
+LateToClass

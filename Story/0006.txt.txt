@@ -1,0 +1,13 @@
+Ooops!
+0006.txt
+It looks like the Bus Driver did not give you the goodie bag! Why is that?
+Go back to the beginning!
+0001.txt
+Quit Game
+0000.txt
+Retry
+0005.txt
+I think I know what I did wrong! Let's play again!
+0005.txt
+0005.txt
+DriverBus

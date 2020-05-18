@@ -1,0 +1,13 @@
+Link Crew Conversations
+0014.txt
+You approach your link crew leader and they look like they are busy talking to someone else! What do you do?
+Go back to my locker
+0015.txt
+I am going to wait until they are done
+0016.txt
+I am going to wait until they are finished their conversation and then I will say "excuse me" to get their attention. 
+0017.txt
+I am going to interrupt their conversation because if I wait for too long, I will miss my class!
+0018.txt
+0017.txt
+ConfusedStudent

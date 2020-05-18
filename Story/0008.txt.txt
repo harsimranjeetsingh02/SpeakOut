@@ -1,0 +1,13 @@
+Locker Troubles
+0008.txt
+Finally you make it to school! Now the fun starts! You head to your locker and proceed to open it. Unfortunately, your locker combination is not working! What can you do!
+I will take my bag to the classroom and see what I can do there. 
+0009.txt
+I am going to ask my Link Crew leader to help me!
+0010.txt
+I think I am going to leave it for later because I cannot do anything right now!
+0011.txt
+I am going to leave my stuff near my locker and go look for a friend that I know so I can ask them.
+0011.txt
+0010.txt
+Lockers

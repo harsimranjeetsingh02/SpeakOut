@@ -1,0 +1,13 @@
+Uh Oh!
+0015.txt
+After you head back to your locker, you realize that the bell for first period has already ring so you have no choice to run to your class with your things. You missed out on all of the fun, and potential M.E. Bucks! Take your time when answering the questions!
+Quit Game!
+0000.txt
+I know why I was late! I am ready to play again!
+0014.txt
+Leave Game!
+0000.txt
+Start again!
+0001.txt
+0014.txt
+LateToClass

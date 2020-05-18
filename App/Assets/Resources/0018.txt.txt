@@ -1,0 +1,13 @@
+Getting the wrong signal
+0018.txt
+It looks like you chose the incorrect decision and you missed out on $20.00 M.E. Bucks! The leader came to help you but had to leave before you figured out what the problem was! 
+Go back to the beginning!
+0001.txt
+Quit Game!
+0000.txt
+I think I know what I did wrong! I am ready to try again!
+0001.txt
+Leave Game
+0000.txt
+0000.txt
+Annoyed
